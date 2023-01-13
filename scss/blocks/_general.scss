@@ -1,0 +1,27 @@
+
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+  }
+
+body{
+    font-family: "Poppins";
+    font-style: normal;
+}
+
+
+
+
+
+@import "./container";
+@import "./header";
+@import "./block1";
+@import "./block2";
+@import "./block3";
+@import "./block4";
+@import "./block5";
+@import "./block6";
+@import "./footer";

@@ -1,0 +1,19 @@
+.partners{
+    
+    &__wrapper{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 70px;
+    }
+    &__title{
+        text-align: center;
+        background-image: url(/image/bg-title.png);
+        background-repeat: no-repeat;
+        background-position:422px -5px;
+        font-weight: 600;
+        font-size: 44px;
+        line-height: 66px;
+        color: #030A1B;
+        margin-top: 100px;
+    }
+}
